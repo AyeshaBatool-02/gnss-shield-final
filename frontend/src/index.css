@@ -1,0 +1,6 @@
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#020817;-webkit-font-smoothing:antialiased}
+::-webkit-scrollbar{width:6px;height:6px}
+::-webkit-scrollbar-track{background:rgba(2,8,23,0.8)}
+::-webkit-scrollbar-thumb{background:rgba(59,130,246,0.3);border-radius:3px}
+::-webkit-scrollbar-thumb:hover{background:rgba(59,130,246,0.5)}
